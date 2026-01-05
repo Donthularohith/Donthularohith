@@ -25,6 +25,13 @@ Here's a snapshot of the tools and technologies frequently used in projects, lab
 - Completed structured cybersecurity training and advanced coursework focused on security operations, monitoring, and incident management.
 - Continuously building a security-focused portfolio aligned with what modern cybersecurity teams seek in early-career talent.
 
+- ## 📜 Certifications:
+
+- **CompTIA Security+**
+- **Google Cybersecurity Certification**
+- **Cyberbite SOC Analyst**
+
+
 ## 🌍 Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/rohith-donthula)
