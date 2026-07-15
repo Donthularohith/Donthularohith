@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/Donthularohith.png" width="150" style="border-radius: 50%;" alt="Rohith Donthula" />
+```console
+$ ssh rohith@nyc.skyline:~ --auth biometric
+> scanning identity ...
+> [██████████] 100% — IDENTITY VERIFIED ✔
+```
+
+<img src="assets/profile.jpg" width="180" alt="Rohith Donthula — NYC skyline" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohith+Donthula;Cybersecurity+Analyst+%7C+Blue+Teamer;SOC+%7C+Threat+Detection+%7C+IR;Defending+one+packet+at+a+time..." alt="Typing SVG" />
 
