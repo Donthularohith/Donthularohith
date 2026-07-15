@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Donthularohith.png" width="150" style="border-radius: 50%;" alt="Rohith Donthula" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohith+Donthula;Cybersecurity+Analyst+%7C+Blue+Teamer;SOC+%7C+Threat+Detection+%7C+IR;Defending+one+packet+at+a+time..." alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/STATUS-HUNTING_THREATS-00FF41?style=for-the-badge&labelColor=0D1117" />
@@ -63,11 +65,13 @@
 
 ## 🚨 `> ls -la ~/operations/`
 
+> **Mission briefing:** My projects revolve around the blue-team lifecycle — detecting threats, investigating incidents, and automating defenses. Everything here is built hands-on: real logs, real alerts, real attack scenarios, whether in simulated SOC environments, live CTF arenas, or my own scripting lab. The goal is simple — think like an attacker, defend like an analyst.
+
 | Operation | Description |
 |-----------|-------------|
-| 🖥️ **SOC / Threat Detection Labs** | Hands-on SIEM work — log analysis, building detections, and alert triage in simulated SOC environments |
-| 🚩 **CTF & Blue Team Exercises** | University-led CTFs and security challenges focused on investigating, detecting, and mitigating attacks |
-| 🤖 **Security Automation & Scripting** | Python tooling for log parsing, IP reputation checks, and reconnaissance — automating the boring parts of security |
+| 🖥️ **SOC / Threat Detection Labs** | Hands-on SIEM work — ingesting and analyzing logs, writing custom detection rules, and triaging alerts end-to-end in simulated SOC environments that mirror real enterprise networks |
+| 🚩 **CTF & Blue Team Exercises** | University-led CTFs and security challenges — investigating compromised systems, tracing attacker footprints, and applying detection and mitigation techniques under time pressure |
+| 🤖 **Security Automation & Scripting** | Python tooling that automates the repetitive side of security — log parsing, bulk IP reputation checks, and reconnaissance scripts that turn hours of manual triage into seconds |
 
 ---
 
@@ -85,6 +89,12 @@
 ## 📜 `> sudo cat /etc/certifications`
 
 <div align="center">
+
+| Certification | Issuer | Domain |
+|---------------|--------|--------|
+| 🛡️ **CompTIA Security+** | CompTIA | Core security skills — network security, threats, cryptography, risk management |
+| 🔍 **Google Cybersecurity Certificate** | Google | Security operations, SIEM tools, Linux, SQL, Python for security |
+| 🖥️ **Cyberbite SOC Analyst** | Cyberbite | SOC workflows — alert triage, log analysis, threat detection & escalation |
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
